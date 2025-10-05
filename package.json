@@ -1,0 +1,13 @@
+{
+  "name": "github-copilot-greeting",
+  "version": "1.0.0",
+  "description": "A simple greeting program for learning GitHub Copilot",
+  "main": "greeting.js",
+  "scripts": {
+    "start": "node greeting.js",
+    "test": "node test.js"
+  },
+  "keywords": ["github", "copilot", "greeting", "tutorial"],
+  "author": "GitHub Copilot Exercise",
+  "license": "MIT"
+}
